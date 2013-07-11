@@ -24,4 +24,6 @@ body {
   text-align: center;
   position: absolute;
   box-sizing: border-box;
+  transition: all .5s ease-in;
+  -webkit-transition: all .5s ease-in;
 }
